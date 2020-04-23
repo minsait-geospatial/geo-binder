@@ -1,0 +1,14 @@
+name: geo_binder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask
+  - pysal
+  - geopandas
+  - jupyter
+  - rasterio
+  - xarray
+  - descartes
+  - osmnx
+  - folium
