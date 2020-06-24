@@ -12,3 +12,16 @@ dependencies:
   - descartes
   - osmnx
   - folium
+  - geopy
+  - plotly
+  - sklearn
+  - scikit-image
+  - matplotlib
+  - geoplot
+  - networkx
+  - osmnx
+  - descartes
+  - contextily
+  - shapefile
+  - sentinelsat
+  - numpy
