@@ -14,7 +14,6 @@ dependencies:
   - folium
   - geopy
   - plotly
-  - sklearn
   - scikit-image
   - matplotlib
   - geoplot
