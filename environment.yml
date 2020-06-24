@@ -22,6 +22,8 @@ dependencies:
   - osmnx
   - descartes
   - contextily
-  - shapefile
-  - sentinelsat
+  - pyshp
   - numpy
+  - scikit-learn
+  - pip:
+    - sentinelsat
